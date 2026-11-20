@@ -2,6 +2,7 @@
   "name": "mainwebsite",
   "compatibility_date": "2026-11-20",
   "assets": {
-    "directory": "."
+    "directory": ".",
+    "not_found_handling": "404.html"
   }
 }
